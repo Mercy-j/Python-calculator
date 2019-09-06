@@ -1,0 +1,35 @@
+{
+"Geography":[
+	{	"Question":"1. The Earth rotation causes?",
+		"a": "Day and night",
+		"b": "Seasons",
+		"c": "Cold",
+		"d": "Heat",
+		"Answer": "a"	
+	},
+	
+	{	"Question":"2. The Earth's revolution causes?",
+		"a": "Day and night",
+		"b": "Seasons",
+		"c": "Cold",
+		"d": "Heat",
+		"Answer": "b"
+	},
+	
+	{	"Question":"3. Earth rotates on what?",
+		"a": "Eliptical Orbit",
+		"b": "Planet",
+		"c": "Axis",
+		"d": "Moon",
+		"Answer": "c"	
+	},
+	
+	{	"Question":"4. Earth rovolves on what?",
+		"a": "Eliptical Orbit",
+		"b": "Planet",
+		"c": "Axis",
+		"d": "Moon",
+		"Answer": "a"	
+	}
+]
+}

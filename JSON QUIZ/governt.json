@@ -1,0 +1,35 @@
+{
+"Government":[
+	{	"Question":"1. Which branch of government makes the law?",
+		"a": "Executive",
+		"b": "Judiciary",
+		"c": "Legislature",
+		"d": "Armed Forces",
+		"Answer": "c"	
+	},
+	
+	{	"Question":"2. Which branch of government enforces the law?",
+		"a": "Executive",
+		"b": "Judiciary",
+		"c": "Legislature",
+		"d": "Armed Forces",
+		"Answer": "a"
+	},
+	
+	{	"Question":"3. Which branch of government interprets the law?",
+		"a": "Executive",
+		"b": "Judiciary",
+		"c": "Legislature",
+		"d": "Armed Forces",
+		"Answer": "b"	
+	},
+	
+	{	"Question":"4. Who leads the executive branch at the state level?",
+		"a": "Governor",
+		"b": "Senator",
+		"c": "Representatives",
+		"d": "Judges",
+		"Answer": "a"	
+	}
+]
+}
